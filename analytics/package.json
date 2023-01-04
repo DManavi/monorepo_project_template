@@ -1,0 +1,9 @@
+{
+  "name": "@prod/analytics",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}
